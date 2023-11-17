@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **My Portfolio Project**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, NextJS, Spring boot & Microservices**
+- 🌱 I’m currently learning **NodeJS, ReactJS, NextJS, Spring boot, Microservices and Data Analytics**
 
-- 👯 I’m looking to collaborate on **Full Stack Development based Projects**
+- 👯 I’m looking to collaborate on **Full Stack Development based Projects, and Data Analytics Projects**
 
 - 🤝 I’m looking for help with **my Portfolio**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.aghakaleem.com/blogs](https://www.aghakaleem.com/blogs)
 
-- 💬 Ask me about **react, next, full stack development**
+- 💬 Ask me about **react, next, full stack development, Data Analytics**
 
 - 📫 How to reach me **aghakaleem4@gmail.com**
 
