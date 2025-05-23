@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agha Kaleem</h1>
-<h3 align="center">Junior Full Stack</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **My Portfolio Project**
 
