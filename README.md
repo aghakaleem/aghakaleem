@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agha Kaleem</h1>
-<h3 align="center">Junior Software Engineer | Full Stack Developer</h3>
+<h3 align="center">Junior Full Stack</h3>
 
 - 🔭 I’m currently working on **My Portfolio Project**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, NextJS, Spring boot, Microservices and Data Analytics**
+- 🌱 I’m currently learning **Django Rest Framework, Data Analytics, Next JS**
 
 - 👯 I’m looking to collaborate on **Full Stack Development based Projects, and Data Analytics Projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.aghakaleem.com/blogs](https://www.aghakaleem.com/blogs)
 
-- 💬 Ask me about **react, next, full stack development, Data Analytics**
+- 💬 Ask me about **next, full stack development, Data Analytics**
 
 - 📫 How to reach me **aghakaleem4@gmail.com**
 
